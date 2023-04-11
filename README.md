@@ -29,4 +29,4 @@ Iniciando na programação, atualmente estudo desenvolvimento Front-End!
 </div>
 
 
-![snake gif](https://github.com/oliveiravitor32/oliveiravitor32/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/oliveiravitor32/oliveiravitor32/blob/output/github-contribution-grid-snake.svg)
