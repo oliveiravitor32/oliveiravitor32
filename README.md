@@ -29,4 +29,5 @@ Iniciando na programação, atualmente estudo desenvolvimento Front-End!
 </div>
 
 
-![Snake animation](https://github.com/OliveiraVitor32/OliveiraVitor32/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]
+(https://github.com/OliveiraVitor32/OliveiraVitor32/blob/output/github-contribution-grid-snake.svg)
