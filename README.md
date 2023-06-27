@@ -1,6 +1,6 @@
 # Olá me chamo Vitor Oliveira 👋
 
-Iniciando na programação, atualmente estudo desenvolvimento Front-End!
+Iniciando na programação, com foco em Front-End!
 
 ## Tecnologias e Ferramentas
 
@@ -15,6 +15,8 @@ Iniciando na programação, atualmente estudo desenvolvimento Front-End!
 
 </div>
 
+### Experiências
+- Cursando Ciências da Computação na Universidade Paulista - Unip
 
 ## Contatos
 
