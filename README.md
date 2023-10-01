@@ -2,7 +2,7 @@
 
 Sou estudante de programação desde 2022 focado em desenvolvimento front-end com experiências em HTML5, CSS3, JavaScript, Git, Angular e React desenvolvidas em cursos online, projetos em meu GitHub e também com o ensino superior onde atualmente estou cursando Ciências da Computação na Universidade Paulista (Unip).
 
-### Mais sobre mim em WebSite: <a href="https://angular-portfolio-oliveiravitor32.vercel.app/" target="_blank">portfólio</a>
+### Mais sobre mim em meu <a href="https://angular-portfolio-oliveiravitor32.vercel.app/" target="_blank">WebSite portfólio</a>
 
 ## Tecnologias e Ferramentas
 
