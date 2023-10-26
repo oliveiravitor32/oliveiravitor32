@@ -17,7 +17,7 @@ Mais sobre mim em meu <a href="https://angular-portfolio-oliveiravitor32.vercel.
 </div>
 
 ### Back-End
-<div style="display:flex, margin-top: 15px;">
+<div style="display:flex, margin: 25px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -27,7 +27,7 @@ Mais sobre mim em meu <a href="https://angular-portfolio-oliveiravitor32.vercel.
 - Cursando Ciências da Computação na Universidade Paulista - Unip
 
 ## Contatos
-<div>
+<div style="margin: 25px 0;">
 <a href = "mailto:oliveiravitor327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vitor-oliveira-27a01525b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
