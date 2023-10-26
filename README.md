@@ -17,7 +17,7 @@ Mais sobre mim em meu <a href="https://angular-portfolio-oliveiravitor32.vercel.
 </div>
 
 ### Back-End
-<div style="display:flex;">
+<div style="display:flex, margin-top: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
