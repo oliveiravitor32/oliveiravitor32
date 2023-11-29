@@ -1,6 +1,6 @@
 # Olá me chamo Vitor Oliveira 👋
 
-Sou estudante de programação desde 2022 focado em desenvolvimento Front-End com experiências adquiridas em cursos online, projetos em meu GitHub e também com o ensino superior onde atualmente estou cursando Ciências da Computação na Universidade Paulista (Unip).
+Desde 2022, tenho dedicado minha trajetória acadêmica ao estudo da programação, concentrando-me no desenvolvimento front-end. Adquiri experiência em tecnologias essenciais para o desenvolvimento web por meio de cursos online, projetos registrados em meu repositório GitHub e, de maneira complementar, durante meu ensino superior, onde atualmente estou cursando Ciência da Computação.
 </br>
 Mais sobre mim em meu <a href="https://angular-portfolio-oliveiravitor32.vercel.app/" target="_blank">WebSite portfólio</a>
 
