@@ -1,5 +1,5 @@
 
-<div style="background-color:#102b5b">
+<div style="background-color: #102b5b">
   # Olá me chamo Vitor Oliveira 👋
 
 Desde 2022, tenho dedicado minha trajetória acadêmica ao estudo da programação, concentrando-me no desenvolvimento front-end. Adquiri experiência em tecnologias essenciais para o desenvolvimento web por meio de cursos online, projetos registrados em meu repositório GitHub e, de maneira complementar, durante meu ensino superior, onde atualmente estou cursando Ciência da Computação.
