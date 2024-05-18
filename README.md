@@ -1,6 +1,3 @@
-<div style="background-color: lightblue; padding: 10px;">
-  Esawdtwadwaewadwaxtaawdawwdawwa
-</div>
 <div style="background-color: #ff0000;">
   # Olá me chamo Vitor Oliveira 👋
 
