@@ -1,3 +1,10 @@
+
+
+<div style="background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.5bRaHgfOfxNIGpQmaYXVFAHaEo%26pid%3DApi&f=1&ipt=7bb12b5596e14d841c3d59e6676670fb9f957c01d4f36d09fd3b31c438f7370c&ipo=images'); padding: 20px; background-size: cover; color: white;">
+  <h2>awdawawawadwado</h2>
+  <p>aawwadwadwadwadwadwadwadwadwadwadwadwadwadwadwadwadwad.</p>
+</div>
+
 <div style="background-color: #102b5b;">
 # Olá me chamo Vitor Oliveira 👋
 
