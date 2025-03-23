@@ -3,8 +3,7 @@ Desde 2022, tenho dedicado minha trajetória acadêmica ao estudo da programaç�
 </br>
 Mais sobre mim em meu <a href="https://angular-portfolio-oliveiravitor32.vercel.app/" target="_blank">WebSite portfólio</a>
 
-## Total de visitantes
-![Profile Views](https://komarev.com/ghpvc/?username=oliveiravitor32)
+![Total de visitantes](https://komarev.com/ghpvc/?username=oliveiravitor32)
 
 ## Tecnologias e ferramentas que estou aprendendo
 
