@@ -32,7 +32,7 @@ Mais sobre mim em meu <a href="https://angular-portfolio-oliveiravitor32.vercel.
 ## Contatos
 <div style="display:block, margin-bottom: 30px">
 <a href = "mailto:oliveiravitor327@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vitor-oliveira-27a01525b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/vitor-oliveira32" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ## Estatísticas
