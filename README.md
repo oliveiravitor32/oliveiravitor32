@@ -41,5 +41,3 @@ Mais sobre mim em meu <a href="https://angular-portfolio-oliveiravitor32.vercel.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiravitor32&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiravitor32&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/oliveiravitor32/oliveiravitor32/blob/output/github-contribution-grid-snake.svg)
