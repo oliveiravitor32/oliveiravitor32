@@ -1,5 +1,5 @@
 # Olá me chamo Vitor Oliveira 👋
-Desenvolvedor Fullstack especializado no desenvolvimento de aplicações modernas e escaláveis com Angular, React, Vue.js e Spring Boot.
+Desenvolvedor fullstack em formação, com foco em aplicações web modernas utilizando Angular e Spring Boot. Experiência prática em projetos com WebSocket, APIs REST e arquitetura SPA.
 </br>
 Mais sobre mim em meu <a href="https://angular-portfolio-oliveiravitor32.vercel.app/" target="_blank">WebSite portfólio</a>
 
