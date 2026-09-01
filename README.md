@@ -46,8 +46,8 @@ Mais sobre mim em meu <a href="https://angular-portfolio-oliveiravitor32.vercel.
 
 <p>
   <a href="https://github.com/oliveiravitor32">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiravitor32&layout=compact&langs_count=7&theme=dracula&cache_seconds=86400" alt="Linguagens mais usadas" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiravitor32&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Estatísticas do GitHub" />
+    <img height="180em" src="https://github-readme-stats-zeta-eight-79.vercel.app/api/top-langs/?username=oliveiravitor32&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats-zeta-eight-79.vercel.app/api?username=oliveiravitor32&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   </a>
 </p>
 
