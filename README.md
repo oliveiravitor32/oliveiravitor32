@@ -59,11 +59,12 @@ Mais sobre mim no meu <a href="https://angular-portfolio-oliveiravitor32.vercel.
 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
-| [Riftlytics](https://github.com/oliveiravitor32/riftlytics_ia_nextjs_postgresql) | Análise de perfis de League of Legends com insights gerados por IA | Next.js · PostgreSQL · IA |
-| [Organizador de arquivos com IA](https://github.com/oliveiravitor32/organizador-de-arquivos_ia_tauri_rust) | App desktop local-first que organiza arquivos com IA local e grafo de conhecimento | Tauri · Rust · React |
-| [The Fallen Piolin](https://github.com/oliveiravitor32/the-fallen-piolin_jogo_java) | Jogo de plataforma 2D com luta de chefe | Java 17 · FXGL |
+| [Clone MyAnimeList](https://github.com/oliveiravitor32/clone-myanimelist_angular) | Clone do MyAnimeList para navegar, pesquisar e acompanhar animes e mangás | Angular · TypeScript |
+| [Portfólio](https://github.com/oliveiravitor32/portfolio_angular) | Meu portfólio pessoal ([ver online](https://angular-portfolio-oliveiravitor32.vercel.app/)) | Angular · TypeScript |
+| [The Fallen Piolin](https://github.com/oliveiravitor32/the-fallen-piolin_jogo_java) | Jogo de plataforma 2D com luta de chefe, desenvolvido em equipe | Java 17 · FXGL 21 |
 | [Leitor de PDF customizável](https://github.com/oliveiravitor32/leitor-de-pdf-customizavel_react) | Leitor de PDF com cores, fontes e espaçamento ajustáveis, 100% no navegador | React · TypeScript |
-| [Bate-papo Fullstack](https://github.com/oliveiravitor32/bate-papo-fullstack_backend_java) | Chat em tempo real com autenticação JWT ([front-end](https://github.com/oliveiravitor32/bate-papo-fullstack_frontend_angular)) | Spring Boot · WebSocket · Angular |
+| [Chat em tempo real](https://github.com/oliveiravitor32/chat-em-tempo-real_fullstack_websocket_angular_java) | Chat fullstack com comunicação instantânea via WebSocket | Angular · Java · Spring Boot · WebSocket |
+| [Biblioteca de Jogos](https://github.com/oliveiravitor32/biblioteca-de-jogos_angular) | Catálogo de jogos integrado à API RAWG Video Games Database | Angular 17 · TypeScript |
 
 ## 📫 Contatos
 
