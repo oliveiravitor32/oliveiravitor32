@@ -6,8 +6,6 @@ Desenvolvedor Full Stack atuando em aplicações **SaaS B2B** para grandes opera
 
 Também tenho experiência com **Angular** e **Spring Boot** no desenvolvimento de SPAs e APIs RESTful, e em projetos pessoais exploro **Next.js**, **Rust/Tauri** e IA. Movido por aprendizado contínuo e evolução técnica constante.
 
-🌎 Inglês intermediário
-
 Mais sobre mim no meu <a href="https://angular-portfolio-oliveiravitor32.vercel.app/" target="_blank">portfólio</a>.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=oliveiravitor32)
